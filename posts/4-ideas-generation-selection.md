@@ -5,8 +5,6 @@ date: "2019-07-09T16:04:44.000Z"
 title: Ideas Generation & Selection
 ---
 
-# Ideas Generation & Selection
-
 In this document I explain the process I went through to form and select new ideas for GroupM, aiming at this project’s challenge to find potential volumetric capture applications for GroupM clients. Volumetric capture is a technology that captures three-dimensional representations of real-world objects or scenes, often used in virtual reality, augmented reality, and digital media production. Exploring the capabilities and potential applications of volumetric capture in media campaigns will help GroupM enhance its competitive edge and establish itself as pioneers in the industry, delivering truly immersive and unforgettable media experiences, as well as innovative and engaging media content that can capture the attention of audiences while staying competitive in the market.
 
 Before the ideation phase, I explored and analysed GroupM's biggest industries and zoomed in on the brands of these industries with most potential for using volumetric capture. Based on these brands' budgets, company values and history of investing in emerging technologies, my analysis revealed that clients of GroupM in the apparel, furniture, and hospitality sector could best benefit from volumetric capture. Proceeding to the concepting phase, I generated ideas for each of these industries. Furthermore, I narrowed down these ideas into the most suitable solutions using a systematic approach.
@@ -17,7 +15,7 @@ Before the ideation phase, I explored and analysed GroupM's biggest industries a
   <tr>
    <td><strong>Main question</strong>
    </td>
-   <td>What applications can be built for these industries?
+   <td>What application should I build?
    </td>
   </tr>
   <tr>

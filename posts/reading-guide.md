@@ -45,31 +45,41 @@ The methodology used for this project is Design thinking, which is a problem-sol
   <tr>
    <td>Why and how to use Volumetric Capture?
    </td>
-   <td><a href="../docs/a-comprehensive-guide-to-utilising-volumetric-capture.pdf" target="_blank">A Comprehensive Guide to Utilising Volumetric Capture</a>
+   <td><a href="1-a-comprehensive-guide-to-utilising-volumetric-capture">A Comprehensive Guide to Utilising Volumetric Capture</a>
    </td>
   </tr>
   <tr>
    <td>What is the potential of Volumetric Capture for brands?
    </td>
-   <td><a href="../docs/potential-of-volumetric-capture-for-brands.pdf" target="_blank">Potential of Volumetric Capture for Brands</a>
+   <td><a href="2-potential-of-volumetric-capture-for-brands">Potential of Volumetric Capture for Brands</a>
    </td>
   </tr>
   <tr>
    <td>Which businesses within GroupM portfolio can best benefit from VC?
    </td>
-   <td><a href="../docs/analysis-of-groupm-brands-portfolio.pdf" target="_blank">Analysis of GroupM brands portfolio</a>
+   <td><a href="3-analysis-of-groupm-brands-portfolio">Analysis of GroupM brands portfolio</a>
    </td>
   </tr>
   <tr>
-   <td>What applications can be built for these industries?
+   <td>What application should I build?
    </td>
-   <td><a href="../docs/ideas-generation-selection.pdf" target="_blank">Ideas Generation & Selection</a>
+   <td><a href="4-ideas-generation-selection">Ideas Generation & Selection</a>
    </td>
   </tr>
   <tr>
-   <td>How does the concept perform?
+   <td>Does it meet user needs and preferences?
    </td>
-   <td><a href="../docs/prototype-evaluation-for-adidas-sporty-tryouts.pdf" target="_blank">Prototype Evaluation For Adidas Sporty Tryouts</a>
+   <td><a href="5-usability-desirability-evaluation-for-adidas-sporty-tryouts">Usability &amp; Desirability Evaluation For Adidas Sporty Tryouts</a>
+   </td>
+  </tr>
+  <tr>
+   <td>What is its commercial value?</td>
+   <td><a href="6-conversion-test-plan-for-adidas-sporty-tryouts">Conversion Test Plan For Adidas Sporty Tryouts	</a>
+   </td>
+  </tr>
+  <tr>
+   <td>How does it look like?</td>
+   <td><a href="7-prototype-for-adidas-sporty-tryouts">Prototype For Adidas Sporty Tryouts</a>
    </td>
   </tr>
 </table>
@@ -94,7 +104,7 @@ To continue with the project, and after discussing with my stakeholder, I decide
 
 In this phase, I focused on bringing the Adidas Sporty Tryouts to life. First, by creating a <a href="../docs/adidas-try-out-flowchart.pdf" target="_blank">User Flow</a> to help me illustrate how the application would function. To test the feasibility of building this application, I created a <a href="https://jancarlohendriks.github.io/s8-edu-volu-web/#left" target="_blank">VolCap POC</a>, where I let a participant be captured in motion portraying different actions necessary for the features of my concept. I did so by using an alternative technique, namely Volograms, given the actual volumetric capture room of GroupM was not yet available during my project. The alternative provided a reliable way of obtaining similar results as a high end volumetric capture room, given it provides a moving 3D scene that I can use in my project.
 
-Furthermore, I created a <a href="https://www.figma.com/file/eNkAxAEtnZJ1NrCkgHkP0u/Prototype?type=design&node-id=0-1&mode=design&t=RnWVQjfyUowQjZ3s-0" target="_blank">Clickable Prototype</a> of the application where the user flow is translated into a design. I tested the prototype on its usability and validated the concept and experience with the intended target audience, young athletes and sport enthusiasts. Overall, the target audience responded really positively about the application, feeling confident with the avatar selection process, trying the outfits in the virtual wardrobe, and having an improved shopping experience by receiving rewards after playing a game. Although, the mini game could be improved by making it more dynamic, as well as the quality of the rendered 3D scene. These shortcomings can be tackled by investing more resources in using high end volumetric captures and applying more gamification techniques. The results can be found in my <a href="../docs/prototype-evaluation-for-adidas-sporty-tryouts.pdf" target="_blank">Prototype Evaluation For Adidas Sporty Tryouts</a>.
+Furthermore, I created a <a href="https://www.figma.com/file/eNkAxAEtnZJ1NrCkgHkP0u/Prototype?type=design&node-id=0-1&mode=design&t=RnWVQjfyUowQjZ3s-0" target="_blank">Clickable Prototype</a> of the application where the user flow is translated into a design. I tested the prototype on its usability and validated the usability and desirability of the concept with the intended target audience, young athletes and sport enthusiasts. Overall, the target audience responded really positively about the application, feeling confident with the avatar selection process, trying the outfits in the virtual wardrobe, and having an improved shopping experience by receiving rewards after playing a game. Although, the mini game could be improved by making it more dynamic, as well as the quality of the rendered 3D scene. These shortcomings can be tackled by investing more resources in using high end volumetric captures and applying more gamification techniques. The results can be found in my <a href="../docs/usability-desirability-evaluation-for-adidas-sporty-tryouts.pdf" target="_blank">Usability And Desirability Evaluation For Adidas Sporty Tryouts</a>. However, the commercial potential of this concept has not yet been validated, which is imperative in order to commit to any definitive investment and move forward with the execution of this concept. To validate the commercial value of the Adidas Sporty Tryouts, its conversion rate needs to be tested. I concluded that an A/B test is the best tool to test the conversion rate, it stands out because it provides tangible, quantifiable performance metrics based on actual user interactions. More about my decision and plan of execution can be found in my <a href="../docs/usability-desirability-evaluation-for-adidas-sporty-tryouts.pdf" target="_blank">Conversion Test Plan For Adidas Sporty Tryouts</a> document. Finally, I provided a working prototype that can be incorporated into the current website of Adidas in order to run the A/B test. In my <a href="../docs/usability-desirability-evaluation-for-adidas-sporty-tryouts.pdf" target="_blank">Prototype For Adidas Sporty Tryouts</a> document I explain more about the handover.
 
 # Conclusion
 
@@ -102,9 +112,9 @@ Volumetric capture technology is a relevant and rapidly evolving field with the 
 
 Among the various industries within GroupM portfolio, and as my research has shown, the apparel, furniture, hospitality and travel industries pose to be the best candidates for applications of volumetric capture. These industries can make use of the benefits this technology has to offer by merging digital experiences into the real world with an outstanding level of realism helping their clients in making a more confident decision. Media planners can learn more about and incorporate this innovative technology into their campaigns using the presentation I prepared. The concept books that I created are examples that can be further explored and tested. To apply volumetric capture in campaigns, media planners need to consider the demands of storing and streaming volumetric data, challenges in achieving realism and quality especially for dynamic subjects, ensuring a smooth user experience across different hardware and connectivity, leveraging volumetric capabilities for engaging storytelling, and evaluating the overall costs and ROI before integrating volumetric capture into their campaigns. To tackle this, media planners should establish clear objectives that align with the technology's immersive potential and audience engagement, collaborate closely with experts, allocate a suitable budget and choose content that benefits from the technology's immersive aspects.
 
-Regarding the Adidas Sporty Tryouts concept, the target audience responded really positively about the application, feeling confident with the avatar selection process, trying the outfits in the virtual wardrobe, and having an improved shopping experience by receiving rewards after playing a game. Although, the mini game could be improved by making it more dynamic, as well as the quality of the rendered 3D scene. These shortcomings can be tackled by investing more resources in using high end volumetric captures, incorporating more 3D assets into the game and applying more gamification techniques to make the game more appealing.
+Regarding the Adidas Sporty Tryouts concept, the target audience responded really positively about the application, feeling confident with the avatar selection process, trying the outfits in the virtual wardrobe, and having an improved shopping experience by receiving rewards after playing a game. Although, the mini game could be improved by making it more dynamic, as well as the quality of the rendered 3D scene. These shortcomings can be tackled by investing more resources in using high end volumetric captures, incorporating more 3D assets into the game and applying more gamification techniques to make the game more appealing. However, the commercial potential of the Adidas Sporty Tryouts concept remains unverified, making it crucial to confirm its viability before making any investment decisions. To assess its commercial value, a test conversion rate needs to be conducted. I prepared an A/B test for this purpose. This method offers concrete, measurable performance metrics based on user interactions. Additionally, I have provided a functional prototype for integration into the Adidas website to facilitate the A/B test.
 
-To summarise, my report Volumetric Capture For Media Planners, my concepts and the Adidas Sporty Tryouts POC form a strong foundation to understand and incorporate volumetric capture in media campaigns, demonstrating the multiple applications this technology has for brands of GroupM. Nevertheless, considerations regarding the appropriate technique need to be taken, as well as its suitability within a campaign.
+To summarise, my report Volumetric Capture For Media Planners, my concepts and the Adidas Sporty Tryouts prototype form a strong foundation to understand and incorporate volumetric capture in media campaigns, demonstrating the multiple applications this technology has for brands of GroupM. Nevertheless, considerations regarding the appropriate technique need to be taken, as well as its suitability within a campaign.
 
 # Reflection
 
@@ -112,7 +122,31 @@ This internship has helped me in expanding my horizons, stepping out of my comfo
 
 Previously having worked in smaller digital agencies, I was curious to explore how a big organisation works. The first half of the internship presented a challenge since I had to adapt to a faster pace of working. But in the second half I managed to make improvements in my pace and deliveries, learning from previous sprints and setting targets for every week, adapting to a new style of work. In addition, working in a media company also provided me with new insights regarding the building of a campaign and the intricate process involved.
 
-Another challenge was the absence of the technology at hand, the high end volumetric capture room, for which no release date was known. I tackled this uncertainty by exploring and testing alternatives and using the knowledge I gained to apply in my project. This proved to be an effective strategy.
+Below I describe my personal challenges and my learnings.
+
+_<span style="text-decoration:underline;">Lack of focus</span>_
+
+I noticed during this project the relevance of setting the right environment for myself in order to avoid distractions. In the office I would get distracted by colleagues or notifications, also the overflow of information I was handling often led to me missing direction, more specifically in the divergence phases. The best solution is to plan my day ahead and set clear goals and milestones, following a straight plan, being aware of when I perform best and when I don’t and taking action in those situations. This is also linked to the following challenge.
+
+_<span style="text-decoration:underline;">Ownership and decision making</span>_
+
+During the project I could have taken more of a leading role, identifying where performance is lacking and thinking of ways for tackling those challenges. I now realise I was not entirely in shape due to lack of relaxation after the previous semester, I was feeling in a rush since the start of the project. Valuable lessons for me are to make an assessment in the beginning of the project and to list down my challenges to put them into perspective in order to make a decision. Having the information clear for myself will also help in assertive communication with stakeholders.
+
+_<span style="text-decoration:underline;">Project management</span>_
+
+For the great majority of my studies, I have worked on team projects which were not as challenging or high paced nor demanded a leading attitude. I was not accustomed to the workings of a big corporation and working on an innovation project. This required adaptation from my part and influenced the project as well. My greatest learnings are to make a risk assessment and to create a plan with a clear phase and their desired outcomes, leaving enough room to explore but with a specific direction.
+
+_<span style="text-decoration:underline;">Critical thinking</span>_
+
+Also coupled to my experience during my studies, so far I was inexperienced in delivering research or any serious company documents. I also had to work harder to dive deeper into the reasoning of my research and provide a binding conclusion, constantly asking “why” behind every step and how it relates to the next step in my research in order to reach a s, while putting myself in the shoes of the reader, in this case the company and my teachers. This one has been the biggest challenge. To overcome this challenge, I have learned techniques such as the third person technique and the 5 whys, and to ask more experts around me and to take a look from different perspectives in order to build an informed conclusion and set a course of action.
+
+_<span style="text-decoration:underline;">Analytical skills</span>_
+
+My research documents did not have a binding conclusion with further steps to take into the research. I had to focus more on analysing my options for choosing a direction in the research and making a decision, my analysis would answer the why after every step and lead me to the right direction in order to provide a solution for the company. Together with my critical thinking, analytical skills were lacking due to the same reason of insufficient previous experience in doing research work on my own. After several documents and practice, I have become more confident in this skill.
+
+From an emotional point of view, these challenges also interfered with my own confidence and oftentimes I would feel frustrated, thinking of quitting many times. I pushed myself really hard as I knew this is the only way to grow, while doing so I discovered my greatest strength is my perseverance.
+
+From a technical angle, another challenge was the absence of the technology at hand, the high end volumetric capture room, for which no release date was known. I tackled this uncertainty by exploring and testing alternatives and using the knowledge I gained to apply in my project. This proved to be an effective strategy.
 
 Volumetric capture is still on the rise and not known to the general public, but I can see its imminent potential together with other emerging technologies such as Mixed Reality devices and the AR Cloud, the Augmented Reality version of the Metaverse. I am very happy to have had the opportunity to work on this technology and I am also proud to have brought valuable insights and applicable applications to GroupM, expanding its competitive edge.
 
@@ -130,7 +164,7 @@ Lastly, I would like to thank Charlie for providing me really valuable feedback 
   <tr>
     <td>Professional duties</td>
     <td>
-      <ul>
+      <ul>	
         <li><a href="../docs/project-plan.pdf" target="_blank">Project Plan</a></li>
         <li><a href="../docs/volumetric-capture-for-media-planners.pdf" target="_blank">Volumetric Capture For Media planners</a></li>
         <li><a href="../docs/concept-for-adidas.pdf" target="_blank">Concept for Adidas</a></li>
@@ -138,6 +172,8 @@ Lastly, I would like to thank Charlie for providing me really valuable feedback 
         <li><a href="../docs/concept-for-transavia.pdf" target="_blank">Concept Transavia</a></li>
         <li><a href="https://jancarlohendriks.github.io/s8-edu-volu-web/#left" target="_blank">VolCap POC</a></li>
         <li><a href="https://www.figma.com/file/eNkAxAEtnZJ1NrCkgHkP0u/Prototype?type=design&node-id=0-1&mode=design&t=RnWVQjfyUowQjZ3s-0" target="_blank">MidFi prototype</a></li>
+        <li><a href="../docs/prototype-for-adidas-sporty-tryouts.pdf" target="_blank">Prototype For Adidas Sporty Tryouts</a></li>
+        <li><a href="https://s8-edu-adidas-virtual-wardrobe-demo.netlify.app/" target="_blank">DEMO Adidas Sporty Tryouts</a></li>
       </ul>
     </td>
   </tr>
@@ -145,7 +181,8 @@ Lastly, I would like to thank Charlie for providing me really valuable feedback 
     <td>Situation-Orientation</td>
     <td>
       <ul>
-        <li><a href="../docs/prototype-evaluation-for-adidas-sporty-tryouts.pdf" target="_blank">Prototype Evaluation For Adidas Sporty Tryouts</a></li>
+        <li><a href="../docs/usability-desirability-evaluation-for-adidas-sporty-tryouts.pdf" target="_blank">Usability And Desirability Evaluation For Adidas Sporty Tryouts</a></li>
+        <li><a href="../docs/conversion-test-plan-for-adidas-sporty-tryouts.pdf" target="_blank">Conversion Test Plan For Adidas Sporty Tryouts</a></li>
       </ul>
     </td>
   </tr>

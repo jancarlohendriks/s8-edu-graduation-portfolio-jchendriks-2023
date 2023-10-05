@@ -5,8 +5,6 @@ date: "2019-07-09T16:04:44.000Z"
 title: Potential of Volumetric Capture for Brands
 ---
 
-# Potential of Volumetric Capture for Brands
-
 The objective of this research is to explore the potential use cases of volumetric capture for brands and GroupM clients, highlighting its benefits and providing real case examples. Considering future prospects beyond volumetric capture and its role within the immersive technologies landscape.
 
 ## Research strategy

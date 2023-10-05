@@ -4,8 +4,6 @@ date: "2019-07-09T16:04:44.000Z"
 title: A Comprehensive Guide to Utilising Volumetric Capture
 ---
 
-# A Comprehensive Guide to Utilising Volumetric Capture
-
 The objective of this research is to develop a comprehensive understanding of volumetric capture technology and its potential as an innovative solution for GroupM, providing a competitive advantage. Researching and analysing different types of volumetric capture, assess their advantages and limitations, and identify real-world case studies showcasing practical applications. This knowledge will serve as a foundation for generating ideas and developing a concept that can unlock new possibilities and offer distinctive solutions to GroupM's clients.
 
 ## Research strategy

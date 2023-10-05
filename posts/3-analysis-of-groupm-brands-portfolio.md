@@ -5,8 +5,6 @@ date: "2019-07-09T16:04:44.000Z"
 title: Analysis of GroupM brands portfolio
 ---
 
-# Analysis of GroupM brands portfolio
-
 The goal of this research is to identify the most significant industries within GroupM's portfolio and align their needs with the capabilities of volumetric capture, conducting research to understand the challenges faced by brands and customers in each industry and explore how volumetric capture can provide value in addressing these challenges.
 
 ## Research strategy
