@@ -21,6 +21,6 @@ Deliverables:
 	<li><a href="../docs/volumetric-capture-for-media-planners.pdf" target="_blank">Volumetric Capture For Media planners</a></li>
 	<li><a href="../docs/concept-for-adidas.pdf" target="_blank">Concept for Adidas</a></li>
 	<li><a href="../docs/concept-for-ikea.pdf" target="_blank">Concept for IKEA</a></li>
-	<li><a href="../docs/concept-for-transavia.pdf" target="_blank">Concept Transavia</a></li>
-	<li><a href="https://www.figma.com/file/eNkAxAEtnZJ1NrCkgHkP0u/Prototype?type=design&node-id=0-1&mode=design&t=RnWVQjfyUowQjZ3s-0" target="_blank">Prototype</a></li>
+	<li><a href="../docs/concept-for-transavia.pdf" target="_blank">Concept for Transavia</a></li>
+	<li><a href="https://s8-edu-adidas-virtual-wardrobe-demo.netlify.app/" target="_blank">Adidas Sporty Tryouts DEMO</a></li>
 </ul>
